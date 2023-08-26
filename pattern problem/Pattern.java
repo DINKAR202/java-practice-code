@@ -4,6 +4,11 @@ public class Pattern {
         Pattern3(9);
     }
 
+    static void pattern4(int n)
+    {
+        for
+    }
+
     static void Pattern3(int n)
     {
         for(int i=1; i<=n; i++)
