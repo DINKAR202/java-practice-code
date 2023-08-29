@@ -14,8 +14,8 @@ public class armStrong {
             arm=(rem*rem*rem)+arm;
             n=n/10;
         }
-        System.out.println(c);
-        System.out.println(arm);
+        // System.out.println(c);
+        // System.out.println(arm);
         if(c==arm){
             System.out.println("Armstrong");
         }
