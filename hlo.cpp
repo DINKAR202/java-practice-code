@@ -86,7 +86,7 @@ void giftDistribution(int n, string names[], int g, string firstTwo[]) {
    for (int i = 0; i < n; i++) {
      if (gifts[i] == maxGifts) {
        if (firstPrinted) {
-         cout << ", ";
+         cout << ", ";erlk,gmhnrkjsd,ghnvfkj,m
        }
        cout << names[i] << "-" << maxGifts;
        firstPrinted = true;
