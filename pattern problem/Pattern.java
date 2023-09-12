@@ -6,7 +6,7 @@ public class Pattern {
 
     static void pattern4(int n)
     {
-        for s,jmbvfn skjdvhb
+        for(int a = 0;)
     }
 
     static void Pattern3(int n)
